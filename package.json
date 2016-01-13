@@ -1,0 +1,16 @@
+{
+  "name": "08-heroku",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.14.2",
+    "ejs": "~2.3.4",
+    "express": "~4.13.3"
+  }
+}
